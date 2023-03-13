@@ -2,7 +2,7 @@
 #### I am Web developer, WordPress and Woocommerce expert
 ![I am Web developer, WordPress and Woocommerce expert](https://twitter.com/DiderNiladro/header_photo)
 
-Hey, I'm Dider. As an professional web Designer and developer,  With over 4 years of experience in Web design,Wordpress and WooCommerce. I design and develop modern responsive  WordPress website & WooCommerce store and help you to grow your business.
+Hey, I'm Dider. As an professional web Designer and developer,  With over 3 years of experience in Web design,Wordpress and WooCommerce. I design and develop modern responsive  WordPress website & WooCommerce store and help you to grow your business.
 
 Skills: Web development/WordPress/Woocommmerce/ JS / HTML / CSS
 
